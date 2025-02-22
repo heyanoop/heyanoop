@@ -8,7 +8,7 @@
 
 ### 🛠️ About Me:
 - 🌱 I’m currently learning **Advanced Cloud Automation** and exploring **Kubernetes**.
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/heyanoop).
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/heyanoop?tab=repositories).
 - 🧑‍🏫 I love sharing knowledge about **DevOps, Cloud, and CI/CD Pipelines**.
 - 🛠️ I enjoy building scalable and efficient deployment solutions.
 - ⚡ Fun Fact: I'm an automobile enthusiast and dream of having a home garage for personal projects.
@@ -18,9 +18,9 @@
 ### 💬 Skills & Expertise:
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible
 - **Cloud Platforms**: AWS, Azure, GCP
-- **Programming & Scripting**: Python, Bash, Java, YAML
+- **Programming & Scripting**: Python, Bash, YAML
 - **Monitoring**: Grafana, Prometheus, ELK Stack
-- **Version Control**: Git, GitHub, GitLab
+- **Version Control**: Git, GitHub, codecommit
 - **Web Development**: HTML5, CSS3, Javascript
 - **Others**: Nginx, Postman, Postgres
 
